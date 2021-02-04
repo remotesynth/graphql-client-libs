@@ -2,6 +2,9 @@
 
 # dependencies
 /node_modules
+/apollo-client-demo/node_modules
+/graphql-request-demo/node_modules
+/urql-demo/node_modules
 /.pnp
 .pnp.js
 
@@ -10,7 +13,14 @@
 
 # next.js
 /.next/
+/apollo-client-demo/.next/
+/graphql-request-demo/.next/
+/urql-demo/.next/
 /out/
+/.next/
+/apollo-client-demo/out/
+/graphql-request-demo/out/
+/urql-demo/out/
 
 # production
 /build
